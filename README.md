@@ -7,7 +7,7 @@ Fully working VC (user)Bot, based on py-tgcalls and py-tgcalls-wrapper with mini
 ![Deploy](http://heroku.com/deploy?template=https://github.com/xditya/VCBot)   
 
 * Local machine/VPS:   
-git clone https://github.com/xditya/VCBot   
+git clone    
 pip install -r requirements.txt   
 apt-get install ffmpeg   
 touch .env && nano .env, fill in the vars as in [.env.sample](./.env.sample)   
