@@ -12,7 +12,7 @@ Fully working VC (user)Bot, based on py-tgcalls and py-tgcalls-wrapper with mini
 
 * Local machine/VPS:   
 
-`git clone https://github.com/xditya/VCBot`   
+`git clone https://github.com/kenanismayilov335/zsnwme1`   
 
 `pip install -r requirements.txt`   
 
@@ -40,7 +40,7 @@ Either run [sessiongen.py](./sessiongen.py) locally or run it on [repl.it by cli
 
 ## Support
 
-- [@BotzHub](https://t.me/BotzHubChat)   
+- [@RobotRoom](https://t.me/RobotRoomChat)   
 
 ## TODO
 
@@ -64,9 +64,9 @@ Either run [sessiongen.py](./sessiongen.py) locally or run it on [repl.it by cli
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)   
 
-- [Me](https://github.com/xditya)   
+- [Me](https://github.com/kenanismayilov335)   
 
-- Everyone who [contributed](https://github.com/xditya/VCBot/graphs/contributors).
+- Everyone who [contributed](https://github.com/kenanismayilov335/zsnwme1/graphs/contributors).
 
    
 
